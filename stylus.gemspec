@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "stylus/version"
 
 Gem::Specification.new do |s|
-  s.name        = "stylus"
+  s.name        = "nov-stylus"
   s.version     = Stylus::VERSION
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ["MIT"]
